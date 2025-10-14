@@ -7,7 +7,7 @@ Make sure to save the SeriesChecker.exe in a folder where it can create new fold
 
 If there are any issues let me know.
 
-© 2025 Your Name. All rights reserved.
+© 2025 Justus Tepe. All rights reserved.
 
 This repository contains the executable version of SeriesChecker only. 
 The source code is not provided. You may download and run the executable, 
